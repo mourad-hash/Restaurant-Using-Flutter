@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "464664229361",
+    "firebase_url": "https://mobile-cac10-default-rtdb.firebaseio.com",
+    "project_id": "mobile-cac10",
+    "storage_bucket": "mobile-cac10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464664229361:android:b46a3904f9397268230050",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCobf6IkT-bB-sd-zLxHbQjxAtowD478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464664229361:android:c0cf4e1c91062b5a230050",
+        "android_client_info": {
+          "package_name": "com.example.hey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCobf6IkT-bB-sd-zLxHbQjxAtowD478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464664229361:android:56d33a8617e48559230050",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCobf6IkT-bB-sd-zLxHbQjxAtowD478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
